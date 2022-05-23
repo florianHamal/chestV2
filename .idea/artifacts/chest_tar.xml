@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chest:tar">
+    <output-path>$USER_HOME$/Desktop/chestTestServer/plugins</output-path>
+    <root id="archive" name="Projects.jar">
+      <element id="module-output" name="ChestV2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/res/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar" path-in-jar="/" />
+      <element id="library" level="application" name="spigot" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/res/plugin.yml" />
+    </root>
+  </artifact>
+</component>

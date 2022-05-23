@@ -1,0 +1,9 @@
+name: ChestV2
+version: 2.0
+author: florianHamal
+
+main: ChestRandomizer
+
+commands:
+  chest:
+    description: setingUpRandomizer;
